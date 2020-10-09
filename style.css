@@ -1,0 +1,11 @@
+table,th,td{
+    border: 5px solid #8000ff;
+    border-collapse: collapse;
+}
+th{
+    border: 5px solid #ffbf00;
+    padding: 10px;
+}
+td{
+    border: 2px solid #0080ff;
+}
